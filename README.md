@@ -11,3 +11,6 @@ Now, although X Education gets a lot of leads, its lead conversion rate is very 
 There are a lot of leads generated in the initial stage (top) but only a few of them come out as paying customers from the bottom. In the middle stage, you need to nurture the potential leads well (i.e. educating the leads about the product, constantly communicating, etc. ) in order to get a higher lead conversion.
 
 X Education wants to select the most promising leads, i.e. the leads that are most likely to convert into paying customers. The company requires you to build a model wherein you need to assign a lead score to each of the leads such that the customers with higher lead score h have a higher conversion chance and the customers with lower lead score have a lower conversion chance. The CEO, in particular, has given a ballpark of the target lead conversion rate to be around 80%.
+
+Visualizaition of the lead conversion after analysing all the variables which contribute maximum to the conversion :
+![Screenshot (3)](https://user-images.githubusercontent.com/81696335/139354327-67d05d57-720d-4c6c-a447-07fa5a1190d7.png)
