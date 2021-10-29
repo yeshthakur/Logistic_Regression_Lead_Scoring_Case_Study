@@ -13,4 +13,4 @@ There are a lot of leads generated in the initial stage (top) but only a few of 
 X Education wants to select the most promising leads, i.e. the leads that are most likely to convert into paying customers. The company requires you to build a model wherein you need to assign a lead score to each of the leads such that the customers with higher lead score h have a higher conversion chance and the customers with lower lead score have a lower conversion chance. The CEO, in particular, has given a ballpark of the target lead conversion rate to be around 80%.
 
 Visualizaition of the lead conversion after analysing all the variables which contribute maximum to the conversion :
-![Screenshot (3)](https://user-images.githubusercontent.com/81696335/139354327-67d05d57-720d-4c6c-a447-07fa5a1190d7.png)
+<img width="960" alt="logregtab" src="https://user-images.githubusercontent.com/81696335/139354666-b60c19f6-d046-46b0-a9ec-d99c54ef4d77.PNG">
